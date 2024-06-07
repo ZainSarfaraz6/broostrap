@@ -1,0 +1,27 @@
+.pet-bg-info{
+    background-color: #67dfc1;
+}
+.panda-bg-info {
+    background-color: #abdd9f;
+}
+
+.btn-buy-now {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 16px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 14px 20px;
+}
+
+.price {
+    color: #FF136F;
+    margin-top: 20px;
+}
